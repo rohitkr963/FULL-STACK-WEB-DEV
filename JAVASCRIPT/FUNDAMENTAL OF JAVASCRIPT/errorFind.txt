@@ -1,0 +1,19 @@
+
+/*
+
+const name = "Rohit"
+
+name = "Abhi"
+
+*/
+
+// Error Explanation:
+// The variable name is declared using const, which means it is a constant variable.
+// In JavaScript, const variables cannot be reassigned once they have been assigned a value.
+// Attempting to assign a new value to a const variable (in this case, trying to set name to "fahad") will result in a TypeError.
+
+let name = "Rohit"; // Use 'let' to allow reassignment
+
+name = "Abhi"; // Now this is valid
+
+console.log(name); // Output: "Abhi"
