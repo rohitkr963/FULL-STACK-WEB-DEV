@@ -1,0 +1,8 @@
+7. Function Expression:-
+
+Function Expression is known as Store the Function in a Varial is Called Function Expression.
+
+const a = function () {      //Function Store in Variale is also known as function expression
+    console.log("Hey How are you")
+}
+a()  
