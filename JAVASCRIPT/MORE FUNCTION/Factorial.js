@@ -7,7 +7,7 @@ const factorial = (a) => {
         for (let i = 1; i <= a; i++) {
             result *= i;
         }
-        return result
+        return result;
 
 }
 
