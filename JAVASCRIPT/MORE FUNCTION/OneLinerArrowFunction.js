@@ -4,4 +4,4 @@
 
 
      const add = (a,b) =>  a+b  //one liner Arrow Function
-     console.log(add(5,5));
+     console.log(add(5,5))
